@@ -1,0 +1,43 @@
+[
+  {
+      "id": 1,
+      "title": "Afsany",
+      "artist": "Young Stunners",
+      "images": "https://raw.githubusercontent.com/beacoder69/owaisali/refs/heads/main/afsanay.jpg",
+      "song": "https://audio.jukehost.co.uk/J3AhM0wZ13991U9mNXhJi5FodhOn86Bt"
+  },
+  {
+      "id": 2,
+      "title": "Baarishien",
+      "artist": "Anuv Jain",
+      "images": "https://raw.githubusercontent.com/beacoder69/owaisali/refs/heads/main/SpotifyMate.com%20-%20Baarishein%20-%20Anuv%20Jain.jpg",
+
+      "song": "https://audio.jukehost.co.uk/U7r7dD7o5hboGyARYcyJegB04jtKrr6i"
+  },
+  {
+    
+      "id": 3,
+      "title": "Victory Anthem",
+      "artist": "Khushi TDT",
+      "images": "https://raw.githubusercontent.com/beacoder69/owaisali/refs/heads/main/SpotifyMate.com%20-%20Victory%20Anthem%20-%20Khushi%20TDT.jpg",
+      "song": "https://audio.jukehost.co.uk/qCUjLx7A71XbMxvG2NOHZ1s4EfsWxF29i"
+  },
+  {
+    
+    "id": 4,
+    "title": "Kabhi Jo Badal Barse",
+    "artist": "Arjit Singh",
+    "images": "https://raw.githubusercontent.com/beacoder69/owaisali/refs/heads/main/SpotifyMate.com%20-%20Kabhi%20Jo%20Badal%20Barse%20-%20Arijit%20Singh.jpg",
+    "song": "https://audio.jukehost.co.uk/WkTAqwKSQnRoZlZLkL0pcKL7Q7yH97xa"
+  },
+  {
+    
+    "id": 5,
+    "title": "Kabira",
+    "artist": "Pitam",
+    "images": "https://raw.githubusercontent.com/beacoder69/owaisali/refs/heads/main/SpotifyMate.com%20-%20Kabira%20-%20Pritam.jpg",
+    "song": "https://audio.jukehost.co.uk/MdntQo3Xii0j1hdT5dEfNN4o4I0qQPY5"
+  }
+
+
+]
